@@ -11,11 +11,9 @@ This is a movie database application built with React, Tailwind CSS, and Redux.
 ## Screenshots
 
 ### Home Page
-![Home Page](./screenshots/screenshot1.png)
+
+![Home Page Header](./src/screenshots/screenshot1.png)
 
 ### Movie Details
-![Movie Details](./screenshots/screenshot2.png)
 
-
-
-
+![Movie Details with Footer](./src/screenshots/screenshot2.png)
