@@ -1,8 +1,21 @@
-# React + Vite
+# My Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a movie database application built with React, Tailwind CSS, and Redux.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fetches movie data from a public API
+- Displays movies in a grid layout
+- Responsive design
+
+## Screenshots
+
+### Home Page
+![Home Page](./screenshots/screenshot1.png)
+
+### Movie Details
+![Movie Details](./screenshots/screenshot2.png)
+
+
+
+
